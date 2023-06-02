@@ -1,7 +1,4 @@
 /*
- * Student Name: Huixin Xu
- * Lab Professor: David Houtman
- * Due Date: Nov 25th, 2022
  * Date modified: Nov 14th, 2022
  * Description: This class models a circular saw blade with measurements for diameter 
  * and kerf in inches.
