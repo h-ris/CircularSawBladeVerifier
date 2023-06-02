@@ -1,14 +1,11 @@
 /*
- * Student Name: Huixin Xu
- * Lab Professor: David Houtman
- * Due Date: Nov 25th, 2022
  * Date modified: Nov 14th, 2022
  * Description: This class prompts users to input the information of the blade and 
  *              give feedback according to user input.
  */
 
 
-public class Assignment02 {
+public class Test02 {
 
 	public static void main(String[] args) {
 		
